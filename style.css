@@ -1,0 +1,54 @@
+body, h3, h4, p {
+	color: black;
+}
+
+body {
+}
+
+.header {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
+
+.current-conditions {
+	border: 1px solid lightgray;
+	border-radius: 0.25rem;
+    padding-left: 1rem;
+}
+
+.button-primary {
+    background-color: lightskyblue;
+}
+
+#buttons-view, #city-input {
+	margin-top: 0.5rem;
+	border: 1px solid lightgray;
+	border-radius: 0.25rem;
+}
+
+.list-group-item {
+	background-color: white;
+}
+
+.card {
+    background-color: lightskyblue;
+}
+
+.card-body {
+    padding: 0.30rem;
+}
+
+img {
+	width: 30%;
+	height: 30%;
+}
+
+.card-text {
+	font-size: 12pt;
+}
+
+.forecast {
+	padding-top: 1rem;
+}
+
